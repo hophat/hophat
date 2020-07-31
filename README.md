@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**hophat/hophat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋 
+[![HitCount](http://hits.dwyl.com/hophat/hophat.svg)](http://hits.dwyl.com/hophat/hophat)
++ 🔭 I am a full stack developer in Viet Nam
++ 📫 How to reach me: hophat2721996@gamil.com
++ 😄 Pronouns: phatho
++ ⚡ My wish is to be able to work with many people developing projects together
++ 💬 If you want to cooperate with me, don't be afraid
++ 🏆  My team: https://teamqqvn.web.app/
+### My skills ✴️ 
+* Php/codeigniter
+* Html/js/css
+* Ionic/angular
+* Crawl webite
+* RPA
