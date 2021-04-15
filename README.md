@@ -5,7 +5,7 @@
 + 😄 Pronouns: phatho
 + ⚡ My wish is to be able to work with many people developing projects together
 + 💬 If you want to cooperate with me, don't be afraid
-+ 🏆  My team: https://teamqqvn.web.app/
++ 🏆  My team: https://gulagi.com
 ### My skills ✴️ 
 * Php/codeigniter
 * Html/js/css
