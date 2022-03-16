@@ -12,3 +12,4 @@
 * Ionic/angular
 * Crawl webite
 * RPA
+* solidity
