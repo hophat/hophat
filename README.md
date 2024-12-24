@@ -9,9 +9,9 @@
 + Proj: https://boo.io.vn
   
 ### My skills ✴️ 
-* Php/codeigniter
+* Php/nodejs
 * Html/js/css
-* Ionic/angular
+* Ionic/angular/react
 * Crawl webite
 * RPA
 * solidity
